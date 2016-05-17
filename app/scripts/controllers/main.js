@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('sneakfeedApp')
+angular.module('yoAngularUiRouterSeedApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

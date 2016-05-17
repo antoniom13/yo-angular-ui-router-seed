@@ -1,7 +1,7 @@
 'use strict';
 
 
-  angular.module('sneakfeedApp', [
+  angular.module('yoAngularUiRouterSeedApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
